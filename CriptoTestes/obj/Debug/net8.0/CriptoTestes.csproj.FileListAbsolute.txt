@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\obj\Debug\net8.0\CriptoTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\obj\Debug\net8.0\CriptoTestes.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\obj\Debug\net8.0\CriptoTestes.AssemblyInfo.cs
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\obj\Debug\net8.0\CriptoTestes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\bin\Debug\net8.0\CriptoTestes.exe
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\bin\Debug\net8.0\CriptoTestes.deps.json
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\bin\Debug\net8.0\CriptoTestes.runtimeconfig.json
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\bin\Debug\net8.0\CriptoTestes.dll
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\bin\Debug\net8.0\CriptoTestes.pdb
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\obj\Debug\net8.0\CriptoTestes.dll
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\obj\Debug\net8.0\refint\CriptoTestes.dll
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\obj\Debug\net8.0\CriptoTestes.pdb
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\obj\Debug\net8.0\CriptoTestes.genruntimeconfig.cache
+C:\Users\lucas\source\repos\CriptoTestes\CriptoTestes\obj\Debug\net8.0\ref\CriptoTestes.dll
